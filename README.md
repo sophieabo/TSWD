@@ -6,7 +6,7 @@ I’m Sophie Abo, a second year in the MS Public Policy and Management program a
 
 Outside of school/work, I love biking, exploring Pittsburgh and other cities, and cooking and baking! This photo is from a trip to Asheville, NC earlier this summer.
 
-![Craggy Gardesn Asheville, NC](Asheville.jpg)
+![Craggy Gardesn Asheville, NC](Asheville.jpeg)
 
 # What I hope to learn 
 During TSWD I hope to learn about different types of data visualizations, the tools needed to create those visulaizations, and which visualizations are appropriate in which situations. I am espeically excited to learn how to produce interactive data visualizations and create a portfolio of work. 
