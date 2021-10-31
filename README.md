@@ -17,6 +17,8 @@ During TSWD I hope to learn about different types of data visualizations, the to
 ## Critques
 
 ## Visualizations
+[OECD Data Visualizations](/dataviz2.md)
+
 
 ## Final Project
 
