@@ -16,9 +16,14 @@ During TSWD I hope to learn about different types of data visualizations, the to
 
 ## Critques
 
-## Visualizations
+## OECD General Government Debt Visualizations
 [OECD Data Visualizations](/dataviz2.md)
+
+### OECD Bar Chart
 <iframe src="https://data.oecd.org/chart/6vsQ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vsQ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+
+### OECD Grid of Charts
+<div class="flourish-embed flourish-chart" data-src="visualisation/7690830"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Final Project
 
