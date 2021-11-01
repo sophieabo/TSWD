@@ -22,8 +22,12 @@ During TSWD I hope to learn about different types of data visualizations, the to
 ### OECD Bar Chart
 <iframe src="https://data.oecd.org/chart/6vsQ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vsQ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
-### OECD Grid of Charts
+### OECD Grid of Line Charts
 <div class="flourish-embed flourish-chart" data-src="visualisation/7690830"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+This visualization uses the same dataset that the OECD bar chart is created from. By using a "Grid of Lines Charts" we can easily visualize all of the countries from 1995 to 2020. The bar chart was only useful to represent the data during one year. In addition to the design elements mentioned in the tutorial, I added an informative title and subtitle. I decided to highlight that a "low ratio indicates good government fiscal health." Since the visualization includes so many countries, this title allows readers to look at their countries of interest and make a conclusion based on this contextual information. I also added a y-axis legend "Debt-to-GDP ratio." I thought that was more informative than labeling each line. Overall, I think this visualization works well as a general reference graphic. 
+
+### OECD Line Chart
+This third visualization also uses the same OECD general government debt dataset. In this e
 
 ## Final Project
 
