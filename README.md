@@ -15,7 +15,7 @@ During TSWD I hope to learn about different types of data visualizations, the to
 # Portfolio
 
 ## Critques
-
+[Assignment34](/CritiqueByDesign)
 
 ## Visualizations
 [OECD Visualizations](/dataviz2.md)
