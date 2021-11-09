@@ -1,4 +1,9 @@
 #Step 1: Find a Data Visualization
+I selected the visualization shown below, from the report titled “Policy Research Perspectives: National Health Expenditures, 2014: Spending Grows by More Than 5% for First Time Since 2007." 
+
+![Original Visualization](OriginalChart.png)
+
+Source: Kane, Carol K. PhD. “Policy Research Perspectives: National Health Expenditures, 2014: Spending Grows by More Than 5% for First Time Since 2007.” American Medical Association, 2016. https://www.ama-assn.org/system/files/corp/media-browser/member/health-policy/prp2016-01spending_0.pdf. 
 
 #Step 2: Critique the Data Visualization
 
