@@ -21,25 +21,26 @@ In the next phase of the exercise, I wireframed three possible ways to improve t
 I then presented my wireframes to two friends and asked them the following questions. Their responses are grouped under each question.
 
 ### 1. Can you describe to me what this is telling you?
-User 1: It seems like all 3 options are trying to communicate the varying growth rates of different types of healthcare spending. They each highlight a different category of spending - physician services, clinical, and prescription drugs.
-User 2: The first one is telling me that spending on physician services has the slowest growth compared to other healthcare spending, the second tells me that spending on prescriptions has increased dramatically within a year, and the last one tells me that spending on clinical services is consistently higher than the other categories.
+* User 1: It seems like all 3 options are trying to communicate the varying growth rates of different types of healthcare spending. They each highlight a different category of spending - physician services, clinical, and prescription drugs.
+* User 2: The first one is telling me that spending on physician services has the slowest growth compared to other healthcare spending, the second tells me that spending on prescriptions has increased dramatically within a year, and the last one tells me that spending on clinical services is consistently higher than the other categories.
 
 ### 2.  Is there anything you find surprising or confusing?
-User 1: The only confusing thing is what category I’m supposed to be focusing on. Since each graph is highlighting different information, I’m having a hard time comparing them to determine which graph is “best”. I will say that if I’m just supposed to be concerned with topline numbers, then the bar graphs are MUCH more intuitive than the line charts. 
-User 2: No, I think all the graphs presented are clear and easy to understand. I think it just depends on what story you are trying to tell which graph is best. 
+* User 1: The only confusing thing is what category I’m supposed to be focusing on. Since each graph is highlighting different information, I’m having a hard time comparing them to determine which graph is “best”. I will say that if I’m just supposed to be concerned with topline numbers, then the bar graphs are MUCH more intuitive than the line charts. 
+* User 2: No, I think all the graphs presented are clear and easy to understand. I think it just depends on what story you are trying to tell which graph is best. 
 
 ### 3. Who do you think is the intended audience for this?
-User 1: I imagine these graphs are for healthcare analysts or administrators, or insurance companies and legislators. 
-User 2: Insurance companies or healthcare administrators.
+* User 1: I imagine these graphs are for healthcare analysts or administrators, or insurance companies and legislators. 
+* User 2: Insurance companies or healthcare administrators.
 
 ### 4.  Is there anything you would change or do differently?
-User 1: As I mentioned previously, it’s hard to say which graph is “doing the best job” since they’re highlighting different parts of the data. I would recommend the author determine A) what category of spending they’re trying to highlight and B) whether they need to show the granular year over year changes. If it can just be summary statistics, then I think the bar graphs are superior. 
-User 2: I would decide what is the most important story from the data you want to tell and use the graph that reflects that. If it is most important that people know that physician spending has grown slower than the other categories, I think the bar graph does that best. If it is that prescription drug prices have increased a lot, the second line graph. If it is that clinical spending has outpaced other spending, I think the line graph tells that information better than the bar chart because it's easier to see the consistent higher spending that way.
+* User 1: As I mentioned previously, it’s hard to say which graph is “doing the best job” since they’re highlighting different parts of the data. I would recommend the author determine A) what category of spending they’re trying to highlight and B) whether they need to show the granular year over year changes. If it can just be summary statistics, then I think the bar graphs are superior. 
+* User 2: I would decide what is the most important story from the data you want to tell and use the graph that reflects that. If it is most important that people know that physician spending has grown slower than the other categories, I think the bar graph does that best. If it is that prescription drug prices have increased a lot, the second line graph. If it is that clinical spending has outpaced other spending, I think the line graph tells that information better than the bar chart because it's easier to see the consistent higher spending that way.
 
 ### 5.  Do you think both visualizations (line and bar graph) are necessary? Do they complement each other? 
-User 1: I err towards the “less is more” and “keep it stupid simple” philosophies, so if there’s not an explicit need for the year by year changes, then I vote for just using the bar graph. If the audience needs to see the year over year changes, then definitely keep the bar graph in addition. 
-User 2: Similar to my previous answer, I think it depends on what you are trying to get across. If the audience does not need to see the change over time, than the bar graph is easier to understand.
+* User 1: I err towards the “less is more” and “keep it stupid simple” philosophies, so if there’s not an explicit need for the year by year changes, then I vote for just using the bar graph. If the audience needs to see the year over year changes, then definitely keep the bar graph in addition. 
+* User 2: Similar to my previous answer, I think it depends on what you are trying to get across. If the audience does not need to see the change over time, than the bar graph is easier to understand.
 
+### User Research Reflections
 The user responses confirmed that there are multiple trends in this data set, and the best way to visualize the information depends on which “story” I want to tell. Based on the title of the original visualization, I decided that highlighting lower rates of physician services spending growth was the most important story to tell in the redesigned visualization. The user research confirmed that the best way to tell this specific story would be to produce a bar chart of the average annual growth rate information, originally located on the right side of the figure. 
 
 ## Step 5: Build Your Solution
