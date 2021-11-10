@@ -1,4 +1,4 @@
-# Assignment 3&4: Critique By Design
+# Assignment 3 & 4: Critique By Design
 
 ## Step 1: Find a Data Visualization
 I selected the visualization shown below, from the report titled “Policy Research Perspectives: National Health Expenditures, 2014: Spending Grows by More Than 5% for First Time Since 2007." 
