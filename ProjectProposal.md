@@ -14,7 +14,6 @@ Ultimately, this trend is probably caused by a combination of these factors. Reg
 It is difficult to support the same critical infrastructure and school system with less revenue. 
 
 *Reduced Labor Pool*
-
 Employers are already facing historic difficulty hiring, and losing working age folks will only exacerbate that. A sufficient and diverse talent pool is also important for attracting new employers to the region. 
 
 *Tarnished Reputation* 
@@ -36,11 +35,13 @@ Following the reasoning described in the overview section, the outline for the p
 - Context: This is not a good trend for the City of Pittsburgh
 - Source: Census
 
+
 2. Allegheny County Population Increased For the First Time Since 1960
 - Visualization type: Bar chart with ticks marks at 1960, 1970, 1980, 1990, 2000, 2010, 2020
 - Color: Use the theme color to highlight positive population growth
 - Context: Allegheny County is recovering from its post-industrial population loss, but Pittsburgh is not experiencing the same trend. 
 - Source: Census 
+
 
 3. City of Pittsburgh Population Change by Race from 2010 to 2020
 - Visualization type: Table (or bar chart)
@@ -48,11 +49,13 @@ Following the reasoning described in the overview section, the outline for the p
 - Context: Approxaetly 10,000 Black residents left the City of Pittsburgh
 - Source: Census
  
+ 
 4. Black Population Increased in Allegheny County Suburbs 
 - Visualization type: Choropleth map 
 - Color: Theme color distribution representing the percent increase in Black residents
 - Context: Illustrate which suburbs are gaining Black residents 
 - Source: Census 
+
 
 5. What Could Explain This Demographic Shift? 
 - Visualization type: Infographic with a symbol representing each factor
@@ -60,11 +63,13 @@ Following the reasoning described in the overview section, the outline for the p
 - Context: There are two possible overarching reasons that could be driving the Black outmigration
 - Source:  n/a
 
+
 6. School Districts are Better in Municipalities with an Increase in Black Population
 - Visualization type: Descending table or map with school scores
 - Color: Use the theme color to highlight school district scores in municipalities where the Black population has increased 
 - Context: Black families are searching for opportunity outside the City of Pittsburgh
 - Source: US News & World Report 
+
 
 7. Housing Costs are Cheaper in Municipalities with an Increase in Black Population
 - Visualization type: Bar chart with selected municipality’s housing costs
@@ -75,6 +80,7 @@ Following the reasoning described in the overview section, the outline for the p
   - Redfin 
   - Need to explore other data sources. Hard to find rental data. 
 
+
 8. Property Taxes are Lower in Municipalities with an Increase in Black Population
 - Visualization type: Bar graph with values sorted descending. 
 - Color: Use theme color to highlight the property taxes for municipalities that gained Black population. 
@@ -82,11 +88,13 @@ Following the reasoning described in the overview section, the outline for the p
 - Source: Allegheny County Treasurer 
 - Perhaps exclude this section, based on length and flow. 
 
+
 9. Why This Trend is Concerning: Black Pittsburghers do not feel like they can thrive in The City of Pittsburgh 
 - Visualization type: Bar graph or call out statistics 
 - Color & Context: Use theme color to highlight how open the Black population perceives the city to be to diversity, and is most likely to leave neighborhoods
 - Source: POISE Foundation
 - I have not created a sketch of this visualization yet, but I will continue to iterate on this idea for the second draft of the final project. 
+
 
 10. Why This Trend is Concerning: This Demographic Shift is Concerning for the City of Pittsburgh for Many Reasons
 - Visualization type: Infographic with a symbol representing each issue (Decreasing Tax Base, Reduced Labor Pool, Tarnished Reputation, Increased Sprawl) 
@@ -95,12 +103,14 @@ Following the reasoning described in the overview section, the outline for the p
 - Source:  n/a
 - I have not created a sketch of this visualization yet, but I will continue to iterate on this idea for the second draft of the final project.
 
+
 11. Call to Action: The City of Pittsburgh Sould Create a Task Force Dedicated to Researching and Recommending Specific Measures to Improve the Quality of Life for Black Pittsburghers.
 - Visualization type: Infographic (will collect feedback during user research) 
 - Color: None or limited theme color
 - Context: Readers should contact the incoming Gainey administration and demand that retaining Black residents must be a policy priority during his time in office
 - Source: n/a
 - I have not created a sketch of this visualization yet, but I will continue to iterate on this idea for the second draft of the final project.
+
 
 # Initial Sketches
 See the initial sketches below. The number in the upper left-hand corner of the sketch corresponds with the outline in the previous section. 
