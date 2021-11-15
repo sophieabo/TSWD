@@ -14,6 +14,7 @@ Ultimately, this trend is probably caused by a combination of these factors. Reg
 It is difficult to support the same critical infrastructure and school system with less revenue. 
 
 *Reduced Labor Pool*
+
 Employers are already facing historic difficulty hiring, and losing working age folks will only exacerbate that. A sufficient and diverse talent pool is also important for attracting new employers to the region. 
 
 *Tarnished Reputation* 
