@@ -19,7 +19,7 @@ Employers are already facing historic difficulty hiring, and losing working age 
 
 It is hard to stop the bleed. As Brookings Fellow and Pittsburgh native Andre Perry noted, “You don’t just lose talent. You lose a mindset… It really hurts the city more than just the loss of a person,” (Pittsburgh City Paper, 2021). If the City doesn’t address the outflow now, then it may well spiral out of control.
 
-######Increased Sprawl
+###### Increased Sprawl
 
 Suburban migration encourages automobile-oriented culture and urban sprawl, and an increased reliance on cars increases greenhouse gas emissions. Also, when amenities and people are located far away from each other, the regional infrastructure burden and costs increase. 
 
