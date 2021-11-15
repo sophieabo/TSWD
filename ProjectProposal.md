@@ -9,17 +9,17 @@ Gentrification: Black Pittsburghers are fleeing to the suburbs due to rising hou
 
 Ultimately, this trend is probably caused by a combination of these factors. Regardless, this trend illustrates that Black residents do not feel like they can thrive in the City of Pittsburgh. This demographic shift is concerning for the City of Pittsburgh for many reasons. 
 
-*Decreasing Tax Base*
+##### Decreasing Tax Base
 It is difficult to support the same critical infrastructure and school system with less revenue. 
 
-*Reduced Labor Pool*
+##### Reduced Labor Pool
 Employers are already facing historic difficulty hiring, and losing working age folks will only exacerbate that. A sufficient and diverse talent pool is also important for attracting new employers to the region. 
 
-*Tarnished Reputation* 
+##### Tarnished Reputation 
 
 It is hard to stop the bleed. As Brookings Fellow and Pittsburgh native Andre Perry noted, “You don’t just lose talent. You lose a mindset… It really hurts the city more than just the loss of a person,” (Pittsburgh City Paper, 2021). If the City doesn’t address the outflow now, then it may well spiral out of control.
 
-###### Increased Sprawl
+##### Increased Sprawl
 
 Suburban migration encourages automobile-oriented culture and urban sprawl, and an increased reliance on cars increases greenhouse gas emissions. Also, when amenities and people are located far away from each other, the regional infrastructure burden and costs increase. 
 
@@ -121,38 +121,40 @@ See the initial sketches below. The number in the upper left-hand corner of the 
 ## Data 
 The primary data source for this project will be the United State Census Bureau (Census) 2010 and 2020 data. As mentioned above, the initial idea for this project stemmed from the release of the 2020 Census Data. I will either pull the relevant data tables from the Census website, or read out the major statistics from the Pittsburgh City Paper’s article listed below. I will also use the following data sources to provide context for this demographic shift: US News, Allegheny County Economic Development, Redfin, Allegheny County Treasurer, and POISE Foundation. I am still exploring the best source to provide housing cost data. Below are links to all of the sources. 
 
-“Best High Schools in the Pittsburgh, PA Area.” US News & World Report, 2021. (https://www.usnews.com/education/best-high-schools/pennsylvania/rankings/pittsburgh-pa-38300). 
+“Best High Schools in the Pittsburgh, PA Area.” US News & World Report, 2021. [https://www.usnews.com/education/best-high-schools/pennsylvania/rankings/pittsburgh-pa-38300](https://www.usnews.com/education/best-high-schools/pennsylvania/rankings/pittsburgh-pa-38300). 
 
-“Market Value Analysis - Allegheny County Economic Development.” Western Pennsylvania Regional Data Center, 2018. (https://data.wprdc.org/dataset/market-value-analysis-allegheny-county-economic-development).
+“Market Value Analysis - Allegheny County Economic Development.” Western Pennsylvania Regional Data Center, 2018. [https://data.wprdc.org/dataset/market-value-analysis-allegheny-county-economic-development](https://data.wprdc.org/dataset/market-value-analysis-allegheny-county-economic-development).
 
-“Municipality Tax Millages 2020.” Allegheny County Treasurer, 2020. (https://apps.alleghenycounty.us/website/millmuni.asp).
+“Municipality Tax Millages 2020.” Allegheny County Treasurer, 2020. [https://apps.alleghenycounty.us/website/millmuni.asp](https://apps.alleghenycounty.us/website/millmuni.asp).
 
-“Neighborhood Attraction Factors: Impacting the Young African American Population in the City of Pittsburgh.” POISE Foundation, 2016. (https://www.poisefoundation.org/aanc-report). 
+“Neighborhood Attraction Factors: Impacting the Young African American Population in the City of Pittsburgh.” POISE Foundation, 2016. [https://www.poisefoundation.org/aanc-report](https://www.poisefoundation.org/aanc-report). 
 
-“Penn Hills, Pittsburgh Housing Market Trends.” Redfin, 2020. (https://www.redfin.com/neighborhood/192248/PA/Pittsburgh/Penn-Hills/housing-market). 
+“Penn Hills, Pittsburgh Housing Market Trends.” Redfin, 2020. [https://www.redfin.com/neighborhood/192248/PA/Pittsburgh/Penn-Hills/housing-market](https://www.redfin.com/neighborhood/192248/PA/Pittsburgh/Penn-Hills/housing-market). 
 
-“Pittsburgh city, Allegheny County, Pennsylvania.” United States Census Bureau, 2020. (https://data.census.gov/cedsci/profile?g=0600000US4200361000). 
+“Pittsburgh city, Allegheny County, Pennsylvania.” United States Census Bureau, 2020. [https://data.census.gov/cedsci/profile?g=0600000US4200361000](https://data.census.gov/cedsci/profile?g=0600000US4200361000). 
 
-Wolfson, Charlie. “2020 Census: Pittsburgh’s slight decline came with ‘massive’ demographic shifts in 2010s. Pittsburgh City Paper, August 13, 2021. (https://www.publicsource.org/pittsburgh-allegheny-county-census-2020/).  
+Wolfson, Charlie. “2020 Census: Pittsburgh’s slight decline came with ‘massive’ demographic shifts in 2010s. Pittsburgh City Paper, August 13, 2021. [https://www.publicsource.org/pittsburgh-allegheny-county-census-2020/](https://www.publicsource.org/pittsburgh-allegheny-county-census-2020/).  
  
 ## Contextual Sources 
 Below are sources that influenced this proposal and will continue to inform the project. 
 
-Deto, Ryan. “Where is Pittsburgh’s population growth occurring and who is driving it?” Pittsburgh City Paper, August 25, 2021. (https://www.pghcitypaper.com/pittsburgh/where-is-pittsburghs-population-growth-occurring-and-who-is-driving-it/Content?oid=20072229). 
+Deto, Ryan. “Where is Pittsburgh’s population growth occurring and who is driving it?” Pittsburgh City Paper, August 25, 2021. [https://www.pghcitypaper.com/pittsburgh/where-is-pittsburghs-population-growth-occurring-and-who-is-driving-it/Content?oid=20072229](https://www.pghcitypaper.com/pittsburgh/where-is-pittsburghs-population-growth-occurring-and-who-is-driving-it/Content?oid=20072229). 
 
-Frey, William H. “Black flight to the suburbs on the rise.” The Brookings Institution, 2015. (https://www.brookings.edu/blog/the-avenue/2015/07/31/black-flight-to-the-suburbs-on-the-rise/). 
+Frey, William H. “Black flight to the suburbs on the rise.” The Brookings Institution, 2015. [https://www.brookings.edu/blog/the-avenue/2015/07/31/black-flight-to-the-suburbs-on-the-rise/](https://www.brookings.edu/blog/the-avenue/2015/07/31/black-flight-to-the-suburbs-on-the-rise/). 
 
-Howell, Junia, Sara Goodkind, Leah Jacobs, Dominique Branson and Elizabeth Miller. "Pittsburgh's Inequality across Gender and Race." Gender Analysis White Papers. City of Pittsburgh's Gender Equity Commission. 2019. (https://apps.pittsburghpa.gov/redtail/images/7109_Pittsburgh%27s_Inequality_Across_Gender_and_Race_09_18_19.pdf). 
+Howell, Junia, Sara Goodkind, Leah Jacobs, Dominique Branson and Elizabeth Miller. "Pittsburgh's Inequality across Gender and Race." Gender Analysis White Papers. City of Pittsburgh's Gender Equity Commission. 2019. [https://apps.pittsburghpa.gov/redtail/images/7109_Pittsburgh%27s_Inequality_Across_Gender_and_Race_09_18_19.pdf](https://apps.pittsburghpa.gov/redtail/images/7109_Pittsburgh%27s_Inequality_Across_Gender_and_Race_09_18_19.pdf). 
 
-Janae, Dani. “Why are so many Black women talking about leaving Pittsburgh?” Pittsburgh City Paper, 2021. (https://www.pghcitypaper.com/pittsburgh/why-are-so-many-black-women-talking-about-leaving-pittsburgh/Content?oid=19576359).
+Janae, Dani. “Why are so many Black women talking about leaving Pittsburgh?” Pittsburgh City Paper, 2021. [https://www.pghcitypaper.com/pittsburgh/why-are-so-many-black-women-talking-about-leaving-pittsburgh/Content?oid=19576359](https://www.pghcitypaper.com/pittsburgh/why-are-so-many-black-women-talking-about-leaving-pittsburgh/Content?oid=19576359).
 
-Lord, Rich. “From the Hilltop to North Side, Black flight drives population change in Pittsburgh.” Public Source, May 20, 2020. (https://www.publicsource.org/from-the-hilltop-to-north-side-black-flight-drives-population-change-in-pittsburgh/).
+Lord, Rich. “From the Hilltop to North Side, Black flight drives population change in Pittsburgh.” Public Source, May 20, 2020. [https://www.publicsource.org/from-the-hilltop-to-north-side-black-flight-drives-population-change-in-pittsburgh/](https://www.publicsource.org/from-the-hilltop-to-north-side-black-flight-drives-population-change-in-pittsburgh/).
 
-Maher, Kris. “Pittsburgh is Losing Black Residents. One Entrepreneur is Trying to Bring Them Back.” Wall Street Journal, May 30, 2021. (https://www.wsj.com/articles/pittsburgh-is-losing-black-residents-one-entrepreneur-is-trying-to-bring-them-back-11622379600). 
+Maher, Kris. “Pittsburgh is Losing Black Residents. One Entrepreneur is Trying to Bring Them Back.” Wall Street Journal, May 30, 2021. [https://www.wsj.com/articles/pittsburgh-is-losing-black-residents-one-entrepreneur-is-trying-to-bring-them-back-11622379600](https://www.wsj.com/articles/pittsburgh-is-losing-black-residents-one-entrepreneur-is-trying-to-bring-them-back-11622379600). 
 
-Routh, Julian. “Census data likely shows Black residents are leaving Pittsburgh but staying nearby, top economist says.” Pittsburgh Post-Gazette, August 16, 2021. (https://www.post-gazette.com/local/city/2021/08/16/census-data-2020-pittsburgh-black-flight-allegheny-county-baldwin-marshall-mckeesport-munhall-penn-hills/stories/202108160085).  
+Routh, Julian. “Census data likely shows Black residents are leaving Pittsburgh but staying nearby, top economist says.” Pittsburgh Post-Gazette, August 16, 2021. [https://www.post-gazette.com/local/city/2021/08/16/census-data-2020-pittsburgh-black-flight-allegheny-county-baldwin-marshall-mckeesport-munhall-penn-hills/stories/202108160085](https://www.post-gazette.com/local/city/2021/08/16/census-data-2020-pittsburgh-black-flight-allegheny-county-baldwin-marshall-mckeesport-munhall-penn-hills/stories/202108160085).  
 
 # Method and Medium 
 For the final project, I intend to compile the data visualizations and text in Shorthand. I am already familiar with ESRI’s StoryMaps, so I am excited to learn a new, but similar tool. I will create the data visualizations in Flourish and Tableau, and embed them in the Shorthand page. To minimize copyright issues, I will explore images on Unsplash. From what I have seen in class, Shorthand will also be an appropriate visual aid for the final presentation. I will prepare talking points and scroll through the Shorthand page.
 
 Between now and the final presentation, I will create storyboards and conduct user research to improve on my project proposal. I hope to interview users who are both familiar and not familiar with Pittsburgh local politics, to ensure that they can both understand the story. I will ask them questions about visualization format, story flow, and story length. Using their feedback I will iterate on the sketches, visualizations, and text to arrive at the final product. 
+
+[Back to TSWD Portfolio Home](/README.md)
