@@ -1,4 +1,5 @@
-# Overview 
+# Final Project Proposal 
+## Overview 
 In my final project I will explore the question: **Why is Pittsburgh’s Black population declining?**  
 
 With the release of the 2020 census data this summer, I read several local news articles highlighting the outmigration of Pittsburgh’s Black population to the Allegheny County suburbs. And in my real estate development class this semester, I have been studying the future development of the Lincoln-Lemington-Belmar neighborhood, which is on the north-eastern edge of the City of Pittsburgh. I have recently been thinking about what effect this demographic shift will have on the future of that neighborhood and the City of Pittsburgh more broadly. 
@@ -25,7 +26,7 @@ Suburban migration encourages automobile-oriented culture and urban sprawl, and 
 
 For these reasons, my call to action is that the City of Pittsburgh create a task force dedicated to researching and recommending specific measures to improve the quality of life for Black Pittsburghers. Specifically, readers should contact the incoming Gainey administration and demand that retaining Black residents must be a policy priority during his time in office. 
 
-# Outline 
+## Outline 
 Following the reasoning described in the overview section, the outline for the project is detailed below. I am still iterating on how to start the piece and the order of the elements.
 
 1. City of Pittsburgh Population Decreased from 2010 to 2020
@@ -111,14 +112,14 @@ Following the reasoning described in the overview section, the outline for the p
 - I have not created a sketch of this visualization yet, but I will continue to iterate on this idea for the second draft of the final project.
 
 
-# Initial Sketches
+## Initial Sketches
 See the initial sketches below. The number in the upper left-hand corner of the sketch corresponds with the outline in the previous section. 
 
 ![Initial Sketches](InitialSketches.png)
 
-# Sources
+## Sources
 
-## Data 
+### Data 
 The primary data source for this project will be the United State Census Bureau (Census) 2010 and 2020 data. As mentioned above, the initial idea for this project stemmed from the release of the 2020 Census Data. I will either pull the relevant data tables from the Census website, or read out the major statistics from the Pittsburgh City Paper’s article listed below. I will also use the following data sources to provide context for this demographic shift: US News, Allegheny County Economic Development, Redfin, Allegheny County Treasurer, and POISE Foundation. I am still exploring the best source to provide housing cost data. Below are links to all of the sources. 
 
 “Best High Schools in the Pittsburgh, PA Area.” US News & World Report, 2021. [https://www.usnews.com/education/best-high-schools/pennsylvania/rankings/pittsburgh-pa-38300](https://www.usnews.com/education/best-high-schools/pennsylvania/rankings/pittsburgh-pa-38300). 
@@ -135,7 +136,7 @@ The primary data source for this project will be the United State Census Bureau 
 
 Wolfson, Charlie. “2020 Census: Pittsburgh’s slight decline came with ‘massive’ demographic shifts in 2010s. Pittsburgh City Paper, August 13, 2021. [https://www.publicsource.org/pittsburgh-allegheny-county-census-2020/](https://www.publicsource.org/pittsburgh-allegheny-county-census-2020/).  
  
-## Contextual Sources 
+### Contextual Sources 
 Below are sources that influenced this proposal and will continue to inform the project. 
 
 Deto, Ryan. “Where is Pittsburgh’s population growth occurring and who is driving it?” Pittsburgh City Paper, August 25, 2021. [https://www.pghcitypaper.com/pittsburgh/where-is-pittsburghs-population-growth-occurring-and-who-is-driving-it/Content?oid=20072229](https://www.pghcitypaper.com/pittsburgh/where-is-pittsburghs-population-growth-occurring-and-who-is-driving-it/Content?oid=20072229). 
@@ -152,7 +153,7 @@ Maher, Kris. “Pittsburgh is Losing Black Residents. One Entrepreneur is Trying
 
 Routh, Julian. “Census data likely shows Black residents are leaving Pittsburgh but staying nearby, top economist says.” Pittsburgh Post-Gazette, August 16, 2021. [https://www.post-gazette.com/local/city/2021/08/16/census-data-2020-pittsburgh-black-flight-allegheny-county-baldwin-marshall-mckeesport-munhall-penn-hills/stories/202108160085](https://www.post-gazette.com/local/city/2021/08/16/census-data-2020-pittsburgh-black-flight-allegheny-county-baldwin-marshall-mckeesport-munhall-penn-hills/stories/202108160085).  
 
-# Method and Medium 
+## Method and Medium 
 For the final project, I intend to compile the data visualizations and text in Shorthand. I am already familiar with ESRI’s StoryMaps, so I am excited to learn a new, but similar tool. I will create the data visualizations in Flourish and Tableau, and embed them in the Shorthand page. To minimize copyright issues, I will explore images on Unsplash. From what I have seen in class, Shorthand will also be an appropriate visual aid for the final presentation. I will prepare talking points and scroll through the Shorthand page.
 
 Between now and the final presentation, I will create storyboards and conduct user research to improve on my project proposal. I hope to interview users who are both familiar and not familiar with Pittsburgh local politics, to ensure that they can both understand the story. I will ask them questions about visualization format, story flow, and story length. Using their feedback I will iterate on the sketches, visualizations, and text to arrive at the final product. 
