@@ -10,15 +10,19 @@ Gentrification: Black Pittsburghers are fleeing to the suburbs due to rising hou
 Ultimately, this trend is probably caused by a combination of these factors. Regardless, this trend illustrates that Black residents do not feel like they can thrive in the City of Pittsburgh. This demographic shift is concerning for the City of Pittsburgh for many reasons. 
 
 *Decreasing Tax Base*
+
 It is difficult to support the same critical infrastructure and school system with less revenue. 
 
 *Reduced Labor Pool*
+
 Employers are already facing historic difficulty hiring, and losing working age folks will only exacerbate that. A sufficient and diverse talent pool is also important for attracting new employers to the region. 
 
 *Tarnished Reputation* 
+
 It is hard to stop the bleed. As Brookings Fellow and Pittsburgh native Andre Perry noted, “You don’t just lose talent. You lose a mindset… It really hurts the city more than just the loss of a person,” (Pittsburgh City Paper, 2021). If the City doesn’t address the outflow now, then it may well spiral out of control.
 
 *Increased Sprawl*
+
 Suburban migration encourages automobile-oriented culture and urban sprawl, and an increased reliance on cars increases greenhouse gas emissions. Also, when amenities and people are located far away from each other, the regional infrastructure burden and costs increase. 
 
 For these reasons, my call to action is that the City of Pittsburgh create a task force dedicated to researching and recommending specific measures to improve the quality of life for Black Pittsburghers. Specifically, readers should contact the incoming Gainey administration and demand that retaining Black residents must be a policy priority during his time in office. 
