@@ -114,7 +114,7 @@ Following the reasoning described in the overview section, the outline for the p
 # Initial Sketches
 See the initial sketches below. The number in the upper left-hand corner of the sketch corresponds with the outline in the previous section. 
 
-![Initial Sketches](InitialSketches.jpeg)
+![Initial Sketches](InitialSketches.png)
 
 # Sources
 
