@@ -5,8 +5,8 @@ In my final project I will explore the question: **Why is Pittsburgh’s Black p
 With the release of the 2020 census data this summer, I read several local news articles highlighting the outmigration of Pittsburgh’s Black population to the Allegheny County suburbs. And in my real estate development class this semester, I have been studying the future development of the Lincoln-Lemington-Belmar neighborhood, which is on the north-eastern edge of the City of Pittsburgh. I have recently been thinking about what effect this demographic shift will have on the future of that neighborhood and the City of Pittsburgh more broadly. 
 
 The new census results finally provide data to support this demographic trend that has been discussed anecdotally over the last five to ten years. Nonetheless, there is still uncertainty around why the outflow of Black Pittsburghers is occurring. There are two schools of thought about what is driving this outmigration. 
-Searching for opportunity: Black Pittsburghers are leaving disinvested neighborhoods in search of better schools, safer neighborhoods, and more plentiful employment opportunities. 
-Gentrification: Black Pittsburghers are fleeing to the suburbs due to rising housing costs and property taxes. 
+- Searching for opportunity: Black Pittsburghers are leaving disinvested neighborhoods in search of better schools, safer neighborhoods, and more plentiful employment opportunities. 
+- Gentrification: Black Pittsburghers are fleeing to the suburbs due to rising housing costs and property taxes. 
 
 Ultimately, this trend is probably caused by a combination of these factors. Regardless, this trend illustrates that Black residents do not feel like they can thrive in the City of Pittsburgh. This demographic shift is concerning for the City of Pittsburgh for many reasons. 
 
