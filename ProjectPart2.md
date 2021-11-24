@@ -19,7 +19,7 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 
 ### Interview Script
 
-***Introduction:** Thank you for agreeing to provide feedback on my project about demographic shifts in Allegheny County for my Telling Stories with Data class. This is a draft or “storyboard” version of the project, so the words and visualizations are not finalized. I am hoping to get your feedback on the order and flow of the narrative, and the current visualizations. Start by taking a moment to scroll through the project, and then I am going to ask you a couple questions. 
+**Introduction:** Thank you for agreeing to provide feedback on my project about demographic shifts in Allegheny County for my Telling Stories with Data class. This is a draft or “storyboard” version of the project, so the words and visualizations are not finalized. I am hoping to get your feedback on the order and flow of the narrative, and the current visualizations. Start by taking a moment to scroll through the project, and then I am going to ask you a couple questions.
 
 **Question 1:** Can you describe the overall narrative of this project? What is the takeaway?
 
