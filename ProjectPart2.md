@@ -3,7 +3,7 @@
 ## Storyboard with Wireframes 
 I used Shorthand to create a storyboard or draft of my final report. Due to time constraints, I decided that becoming familiar with Shorthand and creating a draft this week will be useful for completing the final project on time. I tried to create the most complete draft I could given the limited time, so that the feedback would be the most constructive possible. I iterated on my sketches from Part I and created visualization drafts in Flourish, Tableau, and Canva. I started exploring features in Shorthand (types of blocks, color, layouts etc.), but I look forward to more effectively using those design elements in the final draft. 
 
-[Link to Shorthand Storyboard]<script src="https://carnegiemellon.shorthandstories.com/why-is-pittsburgh-s-black-population-declining-storyboard/embed.js"></script>
+[Link to Shorthand Storyboard](<script src="https://carnegiemellon.shorthandstories.com/why-is-pittsburgh-s-black-population-declining-storyboard/embed.js"></script>)
 
 ## User Research
 
@@ -36,30 +36,30 @@ Conclusion: Thank you so much for taking the time to give me feedback. I will ma
 ### Interview Responses
 
 Question 1: Can you describe the overall narrative of this project? What is the takeaway?
-User 1: Pittsburgh is losing its black population despite otherwise relatively stable population changes. This could be due to increased cost of living or black residents seeking better opportunities. It could be combated by inclusive zoning legislation.
-User 2: Although the overall population of Pittsburgh has stabilized over the past 10 years, the population of Black Pittsburghers has decreased dramatically. Although the cause is not confirmed, the trend has negative consequences and is worth paying attention to.
-User 3: Black people are moving out of Pittsburgh much faster than other population groups. Two theories are offered to explain this departure: Black Pittsburghers are getting priced out of the city, and are seeking better schools.
+- User 1: Pittsburgh is losing its black population despite otherwise relatively stable population changes. This could be due to increased cost of living or -black residents seeking better opportunities. It could be combated by inclusive zoning legislation.
+- User 2: Although the overall population of Pittsburgh has stabilized over the past 10 years, the population of Black Pittsburghers has decreased dramatically. Although the cause is not confirmed, the trend has negative consequences and is worth paying attention to.
+- User 3: Black people are moving out of Pittsburgh much faster than other population groups. Two theories are offered to explain this departure: Black Pittsburghers are getting priced out of the city, and are seeking better schools.
 
 
 Question 2: Who do you think is the intended audience for this project? 
-User 1: Pittsburgh residents/voters, Pittsburgh government officials 
-User 2: Residents of the city of Pittsburgh
-User 3: I thought it was government for most of the presentation, but then the CTA seems like it’s addressed more to your everyday Pittsburgher. 
+- User 1: Pittsburgh residents/voters, Pittsburgh government officials 
+- User 2: Residents of the city of Pittsburgh
+- User 3: I thought it was government for most of the presentation, but then the CTA seems like it’s addressed more to your everyday Pittsburgher. 
 
 Question 3: What do you think about the flow of the project? What (if anything) would you change?
-User 1: I think it has a pretty logical flow and the case is made.
-User 2: The flow makes sense to me
-User 3: Would change some syntax/phrasing, but the flow feels straightforward. 
+- User 1: I think it has a pretty logical flow and the case is made.
+- User 2: The flow makes sense to me
+- User 3: Would change some syntax/phrasing, but the flow feels straightforward. 
 
 Question 4: Do you think the current visualizations effectively support the narrative? How would you change them (titles, colors, type of visualization)? 
-User 1: I think they’re good and add to the project. It would be helpful to see rental costs changing over time but as you mentioned, that data isn’t available. Maybe change in the median home cost in Pittsburgh over the last ten years?
-User 2: The only thing I don’t like is the icons for why the city of pittsburgh should care. It feels weird to have icons on right and text on left and also idk if tarnished reputation swirl makes sense to me
-User 3: I’d clean up the icons in the “Why Should Pittsburgh Care” section, and make them a little sharper (maybe hovering over each one brings up its blurb). I do LOVE the interactive map showing where people are moving to. 
+- User 1: I think they’re good and add to the project. It would be helpful to see rental costs changing over time but as you mentioned, that data isn’t available. Maybe change in the median home cost in Pittsburgh over the last ten years?
+- User 2: The only thing I don’t like is the icons for why the city of pittsburgh should care. It feels weird to have icons on right and text on left and also idk if tarnished reputation swirl makes sense to me
+- User 3: I’d clean up the icons in the “Why Should Pittsburgh Care” section, and make them a little sharper (maybe hovering over each one brings up its blurb). I do LOVE the interactive map showing where people are moving to. 
 
 Question 5: Are you inclined to do the call to actions at the end of the piece? Do you other suggestions for actionable 
-User 1: Yes, and I don’t have any other suggestions.
-User 2: Maybe add a button to share the article?
-User 3: Yes I think the CTA button color makes it very appealing. I wonder if there’s some petition or list that adding one’s name to could be a CTA. 
+- User 1: Yes, and I don’t have any other suggestions.
+- User 2: Maybe add a button to share the article?
+- User 3: Yes I think the CTA button color makes it very appealing. I wonder if there’s some petition or list that adding one’s name to could be a CTA. 
 
 ### Interview Takeaways
 
@@ -69,3 +69,4 @@ The users all successfully identified the central narrative of the story and tho
 
 From this user feedback exercise and the feedback I received in-class, I have several actionable next steps. First, I need to finish adding the text in the piece. I had a good conversation with my group mates in-class about how much text should be included in a piece like this - I hope to strike the right balance in my final draft! Second, I will think through the “Why Should Pittsburgh Care” section. I will fix the resolution of the image, and perhaps, change the titles of the subsections. I will also think about whether there is a more interactive way to represent this information. Third, I will experiment with and utilize Shorthand’s design elements. My groupmates taught me how to directly embed visualizations so that the graphs are larger, how to change the font size, and how to add a “button.” Fourth, I will further explore calls to action and choose the most actionable ones. Fifth, I need to add the references section at the bottom of the piece. 
 
+[Back to TSWD Portfolio Home](/README.md)
