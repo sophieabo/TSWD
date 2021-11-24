@@ -27,7 +27,7 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 
 **Question 3:** What do you think about the flow of the project? What (if anything) would you change?
 
-***Question 4:** Do you think the current visualizations effectively support the narrative? How would you change them (titles, colors, type of visualization)?
+**Question 4:** Do you think the current visualizations effectively support the narrative? How would you change them (titles, colors, type of visualization)?
 
 **Question 5:** Are you inclined to do the call to actions at the end of the piece? Do you other suggestions for actionable 
 
@@ -36,30 +36,30 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 ### Interview Responses
 
 **Question 1: Can you describe the overall narrative of this project? What is the takeaway?**
-- User 1: Pittsburgh is losing its black population despite otherwise relatively stable population changes. This could be due to increased cost of living or -black residents seeking better opportunities. It could be combated by inclusive zoning legislation.
-- User 2: Although the overall population of Pittsburgh has stabilized over the past 10 years, the population of Black Pittsburghers has decreased dramatically. Although the cause is not confirmed, the trend has negative consequences and is worth paying attention to.
-- User 3: Black people are moving out of Pittsburgh much faster than other population groups. Two theories are offered to explain this departure: Black Pittsburghers are getting priced out of the city, and are seeking better schools.
+- User 1: "Pittsburgh is losing its black population despite otherwise relatively stable population changes. This could be due to increased cost of living or -black residents seeking better opportunities. It could be combated by inclusive zoning legislation."
+- User 2: "Although the overall population of Pittsburgh has stabilized over the past 10 years, the population of Black Pittsburghers has decreased dramatically. Although the cause is not confirmed, the trend has negative consequences and is worth paying attention to."
+- User 3: "Black people are moving out of Pittsburgh much faster than other population groups. Two theories are offered to explain this departure: Black Pittsburghers are getting priced out of the city, and are seeking better schools."
 
 
 **Question 2: Who do you think is the intended audience for this project?**
-- User 1: Pittsburgh residents/voters, Pittsburgh government officials 
-- User 2: Residents of the city of Pittsburgh
-- User 3: I thought it was government for most of the presentation, but then the CTA seems like it’s addressed more to your everyday Pittsburgher. 
+- User 1: "Pittsburgh residents/voters, Pittsburgh government officials"
+- User 2: "Residents of the city of Pittsburgh"
+- User 3: "I thought it was government for most of the presentation, but then the CTA seems like it’s addressed more to your everyday Pittsburgher." 
 
 **Question 3: What do you think about the flow of the project? What (if anything) would you change?**
-- User 1: I think it has a pretty logical flow and the case is made.
-- User 2: The flow makes sense to me
-- User 3: Would change some syntax/phrasing, but the flow feels straightforward. 
+- User 1: "I think it has a pretty logical flow and the case is made."
+- User 2: "The flow makes sense to me"
+- User 3: "Would change some syntax/phrasing, but the flow feels straightforward." 
 
 **Question 4: Do you think the current visualizations effectively support the narrative? How would you change them (titles, colors, type of visualization)?** 
-- User 1: I think they’re good and add to the project. It would be helpful to see rental costs changing over time but as you mentioned, that data isn’t available. Maybe change in the median home cost in Pittsburgh over the last ten years?
-- User 2: The only thing I don’t like is the icons for why the city of pittsburgh should care. It feels weird to have icons on right and text on left and also idk if tarnished reputation swirl makes sense to me
-- User 3: I’d clean up the icons in the “Why Should Pittsburgh Care” section, and make them a little sharper (maybe hovering over each one brings up its blurb). I do LOVE the interactive map showing where people are moving to. 
+- User 1: "I think they’re good and add to the project. It would be helpful to see rental costs changing over time but as you mentioned, that data isn’t available. Maybe change in the median home cost in Pittsburgh over the last ten years?"
+- User 2: "The only thing I don’t like is the icons for why the city of pittsburgh should care. It feels weird to have icons on right and text on left and also idk if tarnished reputation swirl makes sense to me"
+- User 3: "I’d clean up the icons in the “Why Should Pittsburgh Care” section, and make them a little sharper (maybe hovering over each one brings up its blurb). I do LOVE the interactive map showing where people are moving to." 
 
 **Question 5: Are you inclined to do the call to actions at the end of the piece? Do you other suggestions for actionable**
-- User 1: Yes, and I don’t have any other suggestions.
-- User 2: Maybe add a button to share the article?
-- User 3: Yes I think the CTA button color makes it very appealing. I wonder if there’s some petition or list that adding one’s name to could be a CTA. 
+- User 1: "Yes, and I don’t have any other suggestions."
+- User 2: "Maybe add a button to share the article?"
+- User 3: "Yes I think the CTA button color makes it very appealing. I wonder if there’s some petition or list that adding one’s name to could be a CTA." 
 
 ### Interview Takeaways
 
