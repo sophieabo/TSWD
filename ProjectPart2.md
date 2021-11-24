@@ -3,7 +3,7 @@
 ## Storyboard with Wireframes 
 I used Shorthand to create a storyboard or draft of my final report. Due to time constraints, I decided that becoming familiar with Shorthand and creating a draft this week will be useful for completing the final project on time. I tried to create the most complete draft I could given the limited time, so that the feedback would be the most constructive possible. I iterated on my sketches from Part I and created visualization drafts in Flourish, Tableau, and Canva. I started exploring features in Shorthand (types of blocks, color, layouts etc.), but I look forward to more effectively using those design elements in the final draft. 
 
-[Link to Shorthand Storyboard](<script src="https://carnegiemellon.shorthandstories.com/why-is-pittsburgh-s-black-population-declining-storyboard/embed.js"></script>)
+[Link to Shorthand Storyboard](https://carnegiemellon.shorthandstories.com/why-is-pittsburgh-s-black-population-declining-storyboard/index.html)
 
 ## User Research
 
