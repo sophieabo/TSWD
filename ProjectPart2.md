@@ -68,7 +68,7 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 
 ### Interview Takeaways
 
-The users all successfully identified the central narrative of the story and thought that the piece flowed well. They all also understood that Pittsburgh residents are the target audience. User 3 specifically gathered this information from the call to action; this hopefully means that the call to action is useful for my targeted audience. I liked User 4's additional suggestion of supporting organizations that are focused on improving the quality of life for Black Pittsburgher. One piece of feedback that all of the users suggested was to clean up the icons under the “Why Should Pittsburgh Care” section. I agree that the resolution of this image could be better, they could use some color, and that the icons might not be the best possible icons for the subcategories. 
+The users all successfully identified the central narrative of the story and thought that the piece flowed well. They all also understood that Pittsburgh residents are the target audience. User 3 specifically gathered this information from the call to action; this hopefully means that the call to action is useful for my targeted audience. I liked User 4's additional suggestion of supporting organizations that are focused on improving the quality of life for Black Pittsburghers. One piece of feedback that all of the users suggested was to clean up the icons under the “Why Should Pittsburgh Care” section. I agree that the resolution of this image could be better, they could use some color, and that the icons might not be the best possible icons for the subcategories. 
 
 ## Next Steps
 
