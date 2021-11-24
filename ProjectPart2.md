@@ -1,7 +1,7 @@
 # Final Project Part II: Wireframes, Storyboard, and User Research
 
 ## Storyboard with Wireframes 
-I used Shorthand to create a storyboard or draft of my final report. Due to time constraints, I decided that becoming familiar with Shorthand and creating a draft this week will be useful for completing the final project on time. I tried to create the most complete draft I could given the limited time, so that the feedback would be the most constructive possible. I iterated on my sketches from Part I and created visualization drafts in Flourish, Tableau, and Canva. I started exploring features in Shorthand (types of blocks, color, layouts etc.), but I look forward to more effectively using those design elements in the final draft. 
+I used Shorthand to create a storyboard, or draft, of my final report. Due to time constraints, I decided that becoming familiar with Shorthand and creating a draft this week will be useful for completing the final project on time. I tried to create the most complete draft I could given the limited time, so that the feedback would be the most constructive possible. I iterated on my sketches from Part I and created visualization drafts in Flourish, Tableau, and Canva. I started exploring features in Shorthand (types of blocks, color, layouts etc.), but I look forward to more effectively using those design elements in the final draft. 
 
 [Link to Shorthand Storyboard](https://carnegiemellon.shorthandstories.com/why-is-pittsburgh-s-black-population-declining-storyboard/index.html)
 
@@ -11,9 +11,9 @@ To get feedback on my storyboard, I conducted user research. Below I define my t
 
 ### Target Audience 
 
-Since the subject of this presentation is Allegheny County demographic shifts, the target audience for this project are Allegheny County residents. Specifically, I envision the audience to be Pittsburghers and Allegheny County residents who are politically engaged, but might not have heard about the most recent census data or demographic shifts. I am assuming a basic understanding of Western Pennsylvania geography and racial equity issues. 
+Since the subject of this presentation is Allegheny County demographic shifts, the target audience for this project are Allegheny County residents. Specifically, I envision the audience to be Pittsburghers and Allegheny County residents who are politically engaged, but might not have heard about the most recent census data or demographic shifts. I am assuming that the audience has a basic understanding of Western Pennsylvania geography and racial equity issues. 
 
-I interviewed several civically engaged Allegheny County residents, who are interested in improving the quality of life in the region. The first interviewee is a white 25 year old who grew up in Pittsburgh, but now lives in Washington D.C. working in the international aid sector. The second interviewee is a white 24 year old who grew up in Kentucky, but now lives in Pittsburgh and is familiar with local politics. The third interviewee is a white 26 year old who grew up in Boston, but now lives in Pittsburgh and is also engaged in local politics and social justice. 
+I interviewed several civically engaged Allegheny County residents, who are interested in improving the quality of life in the region. The first interviewee is a white 25 year old female who grew up in Pittsburgh, but now lives in Washington D.C. working in the international aid sector. The second interviewee is a white 24 year old female who grew up in Kentucky, but now lives in Pittsburgh and is familiar with local politics. The third interviewee is a white 26 year old male who grew up in Boston, but now lives in Pittsburgh and is also engaged in local politics and social justice. 
 
 Given the short timeframe and the holiday, I had limited access to interviewees. In future iterations of the project, I would love to interview Black Allegheny County residents who either have moved from or stayed in the City of Pittsburgh. 
 
@@ -21,7 +21,7 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 
 Introduction: Thank you for agreeing to provide feedback on my project about demographic shifts in Allegheny County for my Telling Stories with Data class. This is a draft or “storyboard” version of the project, so the words and visualizations are not finalized. I am hoping to get your feedback on the order and flow of the narrative, and the current visualizations. Start by taking a moment to scroll through the project, and then I am going to ask you a couple questions. 
 
-Question 1: Can you describe the overall narrative of this project? What is the takeaway? 
+*Question 1: Can you describe the overall narrative of this project? What is the takeaway?* 
 
 Question 2: Who do you think is the intended audience for this project? 
 
