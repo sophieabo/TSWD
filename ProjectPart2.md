@@ -19,7 +19,7 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 
 ### Interview Script
 
-**Introduction:** Thank you for agreeing to provide feedback on my project about demographic shifts in Allegheny County for my Telling Stories with Data class. This is a draft or “storyboard” version of the project, so the words and visualizations are not finalized. I am hoping to get your feedback on the order and flow of the narrative, and the current visualizations. Start by taking a moment to scroll through the project, and then I am going to ask you a couple questions. 
+***Introduction:** Thank you for agreeing to provide feedback on my project about demographic shifts in Allegheny County for my Telling Stories with Data class. This is a draft or “storyboard” version of the project, so the words and visualizations are not finalized. I am hoping to get your feedback on the order and flow of the narrative, and the current visualizations. Start by taking a moment to scroll through the project, and then I am going to ask you a couple questions. 
 
 **Question 1:** Can you describe the overall narrative of this project? What is the takeaway?
 
@@ -31,7 +31,7 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 
 **Question 5:** Are you inclined to do the call to actions at the end of the piece? Do you other suggestions for actionable 
 
-**Conclusion:** Thank you so much for taking the time to give me feedback. I will make sure to send you the final version next week! 
+**Conclusion:** Thank you so much for taking the time to give me feedback. I will make sure to send you the final version next week!*
 
 ### Interview Responses
 
@@ -63,10 +63,10 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 
 ### Interview Takeaways
 
-The users all successfully identified the central narrative of the story and thought that the piece flowed well. They all also understood that Pittsburgh residents are the target audience. User 3 specifically gathered this information from the call to action; this hopefully means that the call to action is useful for my targeted audience. One piece of feedback that all of the users suggested was to clean up the icons under the “Why Should Pittsburgh Care” section. I agree that the resolution of this image could be better, and that the icons might not be the best possible icons for the subcategory. 
+The users all successfully identified the central narrative of the story and thought that the piece flowed well. They all also understood that Pittsburgh residents are the target audience. User 3 specifically gathered this information from the call to action; this hopefully means that the call to action is useful for my targeted audience. One piece of feedback that all of the users suggested was to clean up the icons under the “Why Should Pittsburgh Care” section. I agree that the resolution of this image could be better, and that the icons might not be the best possible icons for the subcategories. 
 
 ## Next Steps
 
-From this user feedback exercise and the feedback I received in-class, I have several actionable next steps. First, I need to finish adding the text in the piece. I had a good conversation with my group mates in-class about how much text should be included in a piece like this - I hope to strike the right balance in my final draft! Second, I will think through the “Why Should Pittsburgh Care” section. I will fix the resolution of the image, and perhaps, change the titles of the subsections. I will also think about whether there is a more interactive way to represent this information. Third, I will experiment with and utilize Shorthand’s design elements. My groupmates taught me how to directly embed visualizations so that the graphs are larger, how to change the font size, and how to add a “button.” Fourth, I will further explore calls to action and choose the most actionable ones. Fifth, I need to add the references section at the bottom of the piece. 
+From this user feedback exercise and the feedback I received in class, I have several actionable next steps. First, I need to finish adding the text in the piece. I had a good conversation with my group mates in class about how much text should be included in a piece like this - I hope to strike the right balance in my final draft! Second, I will think through the “Why Should Pittsburgh Care” section. I will fix the resolution of the image, and perhaps, change the titles of the subsections. I will also think about whether there is a more interactive way to represent this information. Third, I will experiment with and utilize Shorthand’s design elements. My groupmates taught me how to directly embed visualizations so that the graphs are larger, how to change the font size, and how to add a “button.” Fourth, I will further explore calls to action and choose the most actionable ones. Fifth, I need to add the references section at the bottom of the piece. 
 
 [Back to TSWD Portfolio Home](/README.md)
