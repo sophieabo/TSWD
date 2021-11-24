@@ -31,7 +31,7 @@ Given the short timeframe and the holiday, I had limited access to interviewees.
 
 **Question 5:** Are you inclined to do the call to actions at the end of the piece? Do you other suggestions for actionable 
 
-**Conclusion:** Thank you so much for taking the time to give me feedback. I will make sure to send you the final version next week!*
+**Conclusion:** Thank you so much for taking the time to give me feedback. I will make sure to send you the final version next week!
 
 ### Interview Responses
 
