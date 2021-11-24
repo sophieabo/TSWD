@@ -22,4 +22,4 @@ During TSWD I hope to learn about different types of data visualizations, the to
 ## Final Project
 [Final Project Part I: Project Proposal](/ProjectProposal.md) 
 
-[Final Project Part II: Wireframes, Storyboards, and User Research](/ProjectPart2.md) 
+[Final Project Part II: Wireframes, Storyboard, and User Research](/ProjectPart2.md) 
