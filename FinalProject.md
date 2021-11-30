@@ -6,4 +6,4 @@ My final project was completed in three parts; the associated write-ups for each
 
 [Final Project Part II: Wireframes, Storyboard, and User Research](/ProjectPart2.md)
 
-[Final Project Part III:] (/ProjectPart3.md)
+[Final Project Part III: Final Data Story and Presentation] (/ProjectPart3.md)
