@@ -1,3 +1,10 @@
+
+[Back to Final Project Page ](/FinalProject.md)
+
+[Final Project Part II](/ProjectPart2.md)
+
+[Final Project Part III](/ProjectPart3.md)
+
 # Final Project Part I: Project Proposal 
 ## Overview 
 In my final project I will explore the question: **Why is Pittsburgh’s Black population declining?**  
