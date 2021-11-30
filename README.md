@@ -13,13 +13,8 @@ During TSWD I hope to learn about different types of data visualizations, the to
 
 
 # Portfolio
+[OECD Visualizations](/dataviz2.md)
 
-## Assignments
-[Assignment 2: OECD Visualizations](/dataviz2.md)
+[American Medical Association Critique & Visualization](/CritiqueByDesign.md)
 
-[Assignment 3 & 4: American Medical Association Visualization](/CritiqueByDesign.md)
-
-## Final Project
-[Final Project Part I: Project Proposal](/ProjectProposal.md) 
-
-[Final Project Part II: Wireframes, Storyboard, and User Research](/ProjectPart2.md) 
+[Final Project: Why is Pittsburgh's Black Population Declining?](/FinalProject.md)
