@@ -1,4 +1,4 @@
-# Final Project Proposal 
+# Final Project Part I: Project Proposal 
 ## Overview 
 In my final project I will explore the question: **Why is Pittsburgh’s Black population declining?**  
 
