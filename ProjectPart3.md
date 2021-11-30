@@ -1,3 +1,9 @@
+[Back to Final Project Page ](/FinalProject.md)
+
+[Final Project Part I](/ProjectProposal.md)
+
+[Final Project Part II](/ProjectPart2.md)
+
 # Final Project Part III: Final Data Story and Presentation 
 
 ## Reflections
