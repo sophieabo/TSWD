@@ -1,3 +1,9 @@
+[Back to Final Project Page ](/FinalProject.md)
+
+[Final Project Part I](/ProjectProposal.md)
+
+[Final Project Part III](/ProjectPart3.md)
+
 # Final Project Part II: Wireframes, Storyboard, and User Research
 
 ## Storyboard with Wireframes 
