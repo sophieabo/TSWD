@@ -20,4 +20,8 @@ Overall, I am grateful for the opportunity to learn about and practice using sev
 ##  Link to Final Story 
 
 Please click on the link below to access my final story. 
- https://carnegiemellon.shorthandstories.com/why-is-pittsburgh-s-black-population-declining-storyboard/index.html
+
+[Why is Pittsburgh's Black Population Declining: A Study of Demographic Shifts in Allegheny County](https://carnegiemellon.shorthandstories.com/why-is-pittsburgh-s-black-population-declining-storyboard/index.html)
+ 
+ 
+[Back to TSWD Portfolio Home](/README.md)
