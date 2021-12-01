@@ -1,3 +1,5 @@
+[Back to My Portfolio Homepage](/README.md)
+
 [Back to Final Project Page ](/FinalProject.md)
 
 [Final Project Part I](/ProjectProposal.md)
@@ -79,5 +81,3 @@ The users all successfully identified the central narrative of the story and tho
 ## Next Steps
 
 From this user feedback exercise and the feedback I received in class, I have several actionable next steps. First, I need to finish adding the text in the piece. I had a good conversation with my group mates in class about how much text should be included in a piece like this - I hope to strike the right balance in my final draft! Second, I will think through the “Why Should Pittsburgh Care” section. I will fix the resolution of the image, add color, and perhaps, change the titles of the subsections. I will also think about whether there is a more interactive way to represent this information. Third, I will experiment with and utilize Shorthand’s design elements. My groupmates taught me how to directly embed visualizations so that the graphs are larger, how to change the font size, and how to add a “button.” Fourth, I will other explore calls to action and choose the most actionable ones. Fifth, I need to add the references section at the bottom of the piece. 
-
-[Back to TSWD Portfolio Home](/README.md)
