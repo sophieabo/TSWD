@@ -1,3 +1,4 @@
+[Back to My Portfolio Homepage](/README.md)
 
 [Back to Final Project Page ](/FinalProject.md)
 
@@ -164,5 +165,3 @@ Routh, Julian. “Census data likely shows Black residents are leaving Pittsburg
 For the final project, I intend to compile the data visualizations and text in Shorthand. I am already familiar with ESRI’s StoryMaps, so I am excited to learn a new, but similar tool. I will create the data visualizations in Flourish and Tableau, and embed them in the Shorthand page. To minimize copyright issues, I will explore images on Unsplash. From what I have seen in class, Shorthand will also be an appropriate visual aid for the final presentation. I will prepare talking points and scroll through the Shorthand page.
 
 Between now and the final presentation, I will create storyboards and conduct user research to improve on my project proposal. I hope to interview users who are both familiar and not familiar with Pittsburgh local politics, to ensure that they can both understand the story. I will ask them questions about visualization format, story flow, and story length. Using their feedback I will iterate on the sketches, visualizations, and text to arrive at the final product. 
-
-[Back to TSWD Portfolio Home](/README.md)
