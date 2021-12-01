@@ -9,12 +9,12 @@ Outside of school/work, I love biking, exploring Pittsburgh and other cities, an
 ![Craggy Gardesn Asheville, NC](Asheville.jpeg)
 
 # What I hope to learn 
-During TSWD I hope to learn about different types of data visualizations, the tools needed to create those visulaizations, and which visualizations are best suited for which situations. I am espeically excited to learn how to produce interactive data visualizations and create a portfolio of work. I believe that being able to create visualizations will help me effectively describe data and trends throughout my career. 
+During TSWD I hope to learn about different types of data visualizations, the tools needed to create those visualizations, and which visualizations are best suited for which situations. I am espeically excited to learn how to produce interactive data visualizations and create a portfolio of work.
 
 
 # Portfolio
-[OECD Visualizations](/dataviz2.md)
+[Assignment 1: OECD Visualizations](/dataviz2.md)
 
-[American Medical Association Critique & Visualization](/CritiqueByDesign.md)
+[Assignment 2: American Medical Association Critique & Visualization](/CritiqueByDesign.md)
 
 [Final Project: Why is Pittsburgh's Black Population Declining?](/FinalProject.md)
