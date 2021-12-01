@@ -1,4 +1,6 @@
-# Assignment 3 & 4: Critique By Design
+[Back to My Portfolio Homepage](/README.md)
+
+# Assignment 2: American Medical Association Critique & Visualization
 
 ## Step 1: Find a Data Visualization
 I selected the visualization shown below, from the report titled “Policy Research Perspectives: National Health Expenditures, 2014: Spending Grows by More Than 5% for First Time Since 2007." 
@@ -58,4 +60,3 @@ Other design decisions that I made included adding labels at the top of each bar
 
 Overall, I felt that this was an exercise in using visualizations to tell the story that you actually want to tell. To create my final redesign I combined my observations from the critique, design elements from the wireframes, and user feedback. I ultimately picked a clean design that represented the main idea of the original chart and crafted a clear title and axis label. As a result, my redesign is clean and effective. 
 
-[Back to TSWD Portfolio Home](/README.md)
