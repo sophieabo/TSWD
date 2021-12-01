@@ -1,4 +1,7 @@
-# OECD General Government Debt Visualizations
+[Back to My Portfolio Homepage](/README.md)
+
+# Assignment 1: OECD Visualizations
+
 ## OECD Bar Chart
 <iframe src="https://data.oecd.org/chart/6vsQ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vsQ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
@@ -14,5 +17,3 @@ This third visualization also uses the same OECD general government debt dataset
 
 ## OECD Exercise Summary
 In this exercise, I visualized OECD government debt data in 3 ways. With the bar chart, I explored debt in 2019 across all countries in the dataset. In this visualization, you can clearly see which countries have proportionally more debt. Suprisingly, Japan has the hightest Debt-to-GDP ratio. The grid of line charts visualizes Debt-to-GDP ratios overtime for each country. This amount of information is overwhelming for many chart types, but the grid of line charts does an effective job of distilling this information. As mentioned above, this is more a general reference graphic, rather than a specific chart that demonstrates one trend. The third visualization, the line chart, is better at visualizing a specific narrative with fewer categories. I thought the line chart was a good choice to illustrate Germany's fiscal stability as compared to G7 countries. Overall, this exercise demonstrated Flourish's ability to produce a wide variety of visually appealing charts, and that datasets can be visualized and narrativized in many ways! 
-
-[Back to TSWD Portfolio Home](/README.md)
